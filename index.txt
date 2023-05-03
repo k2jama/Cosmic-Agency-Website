@@ -183,13 +183,13 @@ Contact Us
 +248-687-1365
 
 <ion-icon name="mail"></ion-icon>
-info@desinic.com
-help@desinic.com
+info@cosmic.com
+help@cosmic.com
 
 <ion-icon name="location"></ion-icon>
 Pontiac, Michigan, United States of America
 
-&copy; 2022 codewithsadee. All Right Reserved
+&copy; 2023 talo. All Right Reserved
 
 
 
