@@ -2,7 +2,7 @@
   
   <h2 align="center">Cosmic - Agency website</h2>
 
-  Nomad is fully responsive travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  Cosmic is a fully responsive agency website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
   <a href="https://alphaotuken.github.io/Cosmic/#"><strong>➥ Live Demo</strong></a>
   
