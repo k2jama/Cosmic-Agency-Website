@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Desinic Desktop Demo] (![desktop](https://user-images.githubusercontent.com/100890340/235930479-ce9e503f-c0bd-4130-9d55-822a27fd53ba.png) "Desktop Demo")
+![Cosmic Desktop Demo](![desktop](https://user-images.githubusercontent.com/100890340/235930479-ce9e503f-c0bd-4130-9d55-822a27fd53ba.png) "Desktop Demo")
 
 ### Prerequisites
 
