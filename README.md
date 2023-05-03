@@ -1,23 +1,23 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/desinic)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/desinic?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/desinic?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/SjhiZ_ySGzA?style=social)](https://youtu.be/SjhiZ_ySGzA)
+  <h2 align="center">Cosmic - Agency website</h2>
+
+  Nomad is fully responsive travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+
+  <a href="https://alphaotuken.github.io/Cosmic/#"><strong>➥ Live Demo</strong></a>
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/alphaotuken/Nomad-Front-End-Website)
+  ![GitHub stars](https://img.shields.io/github/stars/alphaotuken/Cosmic?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/alphaotuken/Cosmic?style=social)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/taloisik?style=social)](https://twitter.com/intent/follow?screen_name=taloisik)
 
   <br />
   <br />
-
-  <h2 align="center">Desinic - Agency website</h2>
-
-  Desinic is fully responsive agency website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
-
-  <a href="https://codewithsadee.github.io/desinic/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
 <br />
+
 
 ### Demo Screeshots
 
@@ -31,23 +31,23 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Desinic** locally, run this command on your git bash:
+To run **Cosmic** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/desinic.git
+sudo git clone https://github.com/alphaotuken/cosmic.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/desinic.git
+git clone https://github.com/alphaotuken/cosmic.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/taloisik).
 
 ### License
 
