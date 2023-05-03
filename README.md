@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Cosmic Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Cosmic Desktop Demo](./desktop.png "Desktop Demo")
 
 ### Prerequisites
 
