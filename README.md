@@ -6,9 +6,9 @@
 
   <a href="https://alphaotuken.github.io/Cosmic/#"><strong>➥ Live Demo</strong></a>
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/alphaotuken/Nomad-Front-End-Website)
-  ![GitHub stars](https://img.shields.io/github/stars/alphaotuken/Cosmic?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/alphaotuken/Cosmic?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/talobyte/Nomad-Front-End-Website)
+  ![GitHub stars](https://img.shields.io/github/stars/talobyte/Cosmic?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/talobyte/Cosmic?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/taloisik?style=social)](https://twitter.com/intent/follow?screen_name=taloisik)
 
   <br />
@@ -36,13 +36,13 @@ To run **Cosmic** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/alphaotuken/cosmic.git
+sudo git clone https://github.com/talobyte/cosmic.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/alphaotuken/cosmic.git
+git clone https://github.com/talobyte/cosmic.git
 ```
 
 ### Contact
