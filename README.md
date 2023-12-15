@@ -4,7 +4,7 @@
 
   Cosmic is a fully responsive agency website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://alphaotuken.github.io/Cosmic/#"><strong>➥ Live Demo</strong></a>
+  <a href="https://talobyte.github.io/Cosmic-Agency-Website/"><strong>➥ Live Demo</strong></a>
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/talobyte/Nomad-Front-End-Website)
   ![GitHub stars](https://img.shields.io/github/stars/talobyte/Cosmic?style=social)
