@@ -1,14 +1,10 @@
-Cosmic - Get Best UI Design
-
-
-
 #......... HEADER ..........#
 
-Desinic
+Perspexa AI
 
-Desinic
+Perspexa AI
 
-aria-labe = Close Menu
+aria-label = Close Menu
 <ion-icon name="close-outline"></ion-icon>
 
 Home
@@ -24,13 +20,13 @@ Get A Quote
 aria-label = Open Menu
 <ion-icon name="menu-outline"></ion-icon>
 
-
-
 #......... HERO ..........#
 
-We Are Product Designer From UK
+alt = hero-banner
 
-We Design Interfaces That Users Love
+We Are AI Innovators
+
+We Create Intelligent Solutions That Transform Businesses
 
 Morbi sed lacus nec risus finibus feugiat et fermentum nibh. Pellentesque vitae ante at elit fringilla ac at purus.
 
@@ -38,34 +34,28 @@ Learn More
 
 alt = hero-banner
 
-
-
 #......... ABOUT ..........#
 
-alt = about banner
+alt = about-banner
 
-Why Our Agency
+Why Choose Perspexa AI
 
 In dictum aliquam turpis lacinia iaculis. Fusce vel malesuada magna. Nulla vel maximus risus. Donec volutpat metus lacinia risus accumsan, ac bibendum libero efficitur. Pellentesque nec nisi sit amet magna tempus hendrerit ut a odio.
 
-Praesent rhoncus commodo tortor, id pulvinar nisl blandit at. Nulla facilisi. Quisque turpis ante, vehicula condimentum arcu.
+Join thousands of satisfied clients who have launched successful projects with us.
 
 9875
 Satisfied Clients
 
 7894
-Project Lunched
+Projects Launched
 
 65
-Years Completed
-
-
-
-
+Years of Experience
 
 #......... SERVICE ..........#
 
-Our Speciallization
+Our Specialization
 
 <ion-icon name="telescope-outline"></ion-icon>
 
@@ -80,11 +70,7 @@ aria-label = Show More
 Web Development
 
 <ion-icon name="globe-outline"></ion-icon>
-Web Solution
-
-
-
-
+Web Solutions
 
 #......... FEATURES ..........#
 
@@ -104,24 +90,20 @@ alt = Features Banner
 Development
 
 <ion-icon name="rocket-outline"></ion-icon>
-Testing & Lunching
-
-
-
-
+Testing & Launching
 
 #......... BLOG ..........#
 
 Our Blog & News
 
-alt = Vestibulum massa arcu, consectetu pellentesque scelerisque.
+alt = Vestibulum massa arcu, consectetur pellentesque scelerisque.
 
-Vestibulum massa arcu, consectetu pellentesque scelerisque.
+Vestibulum massa arcu, consectetur pellentesque scelerisque.
 
 Sed quis sagittis velit. Aliquam velit eros, bibendum ut massa et, consequat laoreet erat nam ac imperdiet.
 
 <ion-icon name="time-outline"></ion-icon>
-7 March, 2022
+7 March, 2023
 
 aria-label = Comment
 
@@ -131,20 +113,15 @@ aria-label = Comment
 aria-label = Share
 <ion-icon name="share-social-outline"></ion-icon>
 
-
 Quisque egestas iaculis felis eget placerat ut pulvinar mi.
 
 Fusce sem ligula, imperdiet sed nisi sit amet, euismod posuere.
 
 Donec feugiat mollis nisi in dignissim. Morbi sollicitudin quis.
 
-
-
-
-
 #......... FOOTER ..........#
 
-Desinic
+Perspexa AI
 
 Maecenas pellentesque placerat quam, in finibus nisl tincidunt sed. Aliquam magna augue, malesuada ut feugiat eget, cursus eget felis.
 
@@ -152,7 +129,7 @@ Maecenas pellentesque placerat quam, in finibus nisl tincidunt sed. Aliquam magn
 <ion-icon name="logo-instagram"></ion-icon>
 <ion-icon name="logo-twitter"></ion-icon>
 
-Our links
+Our Links
 
 Home
 About Us
@@ -164,11 +141,11 @@ Our Services
 
 Strategy & Research
 Web Development
-Web Solution
+Web Solutions
 Digital Marketing
 App Design
 
-Other links
+Other Links
 
 FAQ
 Portfolio
@@ -179,21 +156,15 @@ Support
 Contact Us
 
 <ion-icon name="call"></ion-icon>
-+248-421-4313
-+248-687-1365
++1-123-456-7890
 
 <ion-icon name="mail"></ion-icon>
-info@cosmic.com
-help@cosmic.com
+info@perspexaai.com
 
 <ion-icon name="location"></ion-icon>
-Pontiac, Michigan, United States of America
+City, Country
 
-&copy; 2023 talo. All Right Reserved
-
-
-
-
+&copy; 2024 Perspexa AI. All Rights Reserved
 
 #......... GO TO TOP ..........#
 
