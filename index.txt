@@ -1,84 +1,86 @@
-Perspexa AI - Transforming Businesses with AI Automation
+Cosmic - Get Best UI Design
 
 
 
 #......... HEADER ..........#
 
-Perspexa AI
+Desinic
 
-aria-label="Close Menu"
+Desinic
+
+aria-labe = Close Menu
 <ion-icon name="close-outline"></ion-icon>
 
 Home
+About
 Services
 Features
-About Us
-Contact
+Blog
+Contact Us
 
 <ion-icon name="chevron-forward-outline" aria-hidden="true"></ion-icon>
-Get Started
+Get A Quote
 
-aria-label="Open Menu"
+aria-label = Open Menu
 <ion-icon name="menu-outline"></ion-icon>
 
 
 
 #......... HERO ..........#
 
-alt="hero-banner"
+We Are Product Designer From UK
 
-Revolutionize Your Business with Perspexa AI
+We Design Interfaces That Users Love
 
-Harness the Power of Artificial Intelligence for Unprecedented Growth and Innovation.
+Morbi sed lacus nec risus finibus feugiat et fermentum nibh. Pellentesque vitae ante at elit fringilla ac at purus.
 
-<a href="#contact" class="btn btn-primary">
-  <ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
-  <span>Get Started</span>
-</a>
+Learn More
+
+alt = hero-banner
 
 
 
 #......... ABOUT ..........#
 
-alt="about banner"
+alt = about banner
 
-Why Choose Perspexa AI
+Why Our Agency
 
-In a rapidly evolving digital landscape, Perspexa AI stands as a beacon of innovation. Our commitment to excellence and cutting-edge AI technologies sets us apart.
+In dictum aliquam turpis lacinia iaculis. Fusce vel malesuada magna. Nulla vel maximus risus. Donec volutpat metus lacinia risus accumsan, ac bibendum libero efficitur. Pellentesque nec nisi sit amet magna tempus hendrerit ut a odio.
 
-With a proven track record and a team of dedicated professionals, we redefine the possibilities of artificial intelligence. Join us on this transformative journey.
+Praesent rhoncus commodo tortor, id pulvinar nisl blandit at. Nulla facilisi. Quisque turpis ante, vehicula condimentum arcu.
 
 9875
 Satisfied Clients
 
 7894
-Projects Launched
+Project Lunched
 
-5
-Years of Excellence
-
-
+65
+Years Completed
 
 
 
-#......... SERVICES ..........#
 
-Our Expertise
+
+#......... SERVICE ..........#
+
+Our Speciallization
 
 <ion-icon name="telescope-outline"></ion-icon>
 
-Data Analytics
+Strategy & Research
 
-Unlock valuable insights and make data-driven decisions.
+Mauris ut felis malesuada eros varius tristique a at orci. Nulla vulputate, leo sit amet rhoncus suscipit, enim ex venenatis ipsum, et porttitor.
 
-aria-label="Show More"
+aria-label = Show More
 <ion-icon name="chevron-forward-outline"></ion-icon>
 
 <ion-icon name="desktop-outline"></ion-icon>
-Automation Solutions
+Web Development
 
 <ion-icon name="globe-outline"></ion-icon>
-AI Innovation
+Web Solution
 
 
 
@@ -86,29 +88,23 @@ AI Innovation
 
 #......... FEATURES ..........#
 
-Why Perspexa AI
+Our Features
 
 <ion-icon name="bulb-outline"></ion-icon>
-Innovative Solutions
+Idea & Analysis
 
-Discover a new era of innovation with our high-performance AI solutions.
+Praesent tincidunt congue est ut hendrerit. Pellentesque et eros sit amet ipsum venenatis.
 
 <ion-icon name="color-palette-outline"></ion-icon>
-Robust Security
+Designing
 
-Ensure the safety and integrity of your data with our secure AI platform.
-
-alt="Features Banner"
+alt = Features Banner
 
 <ion-icon name="code-slash-outline"></ion-icon>
-Dedicated Support
-
-Our expert support team is ready to assist you 24/7.
+Development
 
 <ion-icon name="rocket-outline"></ion-icon>
-Efficiency & Speed
-
-Experience AI solutions with unparalleled speed and efficiency.
+Testing & Lunching
 
 
 
@@ -116,24 +112,31 @@ Experience AI solutions with unparalleled speed and efficiency.
 
 #......... BLOG ..........#
 
-Perspexa AI Insights
+Our Blog & News
 
-alt="Vestibulum massa arcu, consectetu pellentesque scelerisque."
+alt = Vestibulum massa arcu, consectetu pellentesque scelerisque.
 
-Explore the latest trends and insights in the world of AI and business transformation.
+Vestibulum massa arcu, consectetu pellentesque scelerisque.
+
+Sed quis sagittis velit. Aliquam velit eros, bibendum ut massa et, consequat laoreet erat nam ac imperdiet.
 
 <ion-icon name="time-outline"></ion-icon>
-7 March, 2024
+7 March, 2022
 
-aria-label="Comment"
+aria-label = Comment
 
 <ion-icon name="chatbubble-outline"></ion-icon>
 15
 
-aria-label="Share"
+aria-label = Share
 <ion-icon name="share-social-outline"></ion-icon>
 
-Stay informed and join the conversation. Dive into our blog for valuable perspectives on the future of AI.
+
+Quisque egestas iaculis felis eget placerat ut pulvinar mi.
+
+Fusce sem ligula, imperdiet sed nisi sit amet, euismod posuere.
+
+Donec feugiat mollis nisi in dignissim. Morbi sollicitudin quis.
 
 
 
@@ -141,7 +144,7 @@ Stay informed and join the conversation. Dive into our blog for valuable perspec
 
 #......... FOOTER ..........#
 
-Perspexa AI
+Desinic
 
 Maecenas pellentesque placerat quam, in finibus nisl tincidunt sed. Aliquam magna augue, malesuada ut feugiat eget, cursus eget felis.
 
@@ -149,24 +152,26 @@ Maecenas pellentesque placerat quam, in finibus nisl tincidunt sed. Aliquam magn
 <ion-icon name="logo-instagram"></ion-icon>
 <ion-icon name="logo-twitter"></ion-icon>
 
-Our Links
+Our links
 
 Home
-Services
-Features
 About Us
-Contact
+Services
+Team
+Blog
 
 Our Services
 
-Data Analytics
-Automation Solutions
-AI Innovation
+Strategy & Research
+Web Development
+Web Solution
+Digital Marketing
+App Design
 
-Other Links
+Other links
 
 FAQ
-Blog
+Portfolio
 Privacy Policy
 Terms & Conditions
 Support
@@ -174,15 +179,17 @@ Support
 Contact Us
 
 <ion-icon name="call"></ion-icon>
-+1-123-456-7890
++248-421-4313
++248-687-1365
 
 <ion-icon name="mail"></ion-icon>
-info@perspexaai.com
+info@cosmic.com
+help@cosmic.com
 
 <ion-icon name="location"></ion-icon>
-Your Business Location
+Pontiac, Michigan, United States of America
 
-&copy; 2024 Perspexa AI. All Rights Reserved.
+&copy; 2023 talo. All Right Reserved
 
 
 
@@ -190,5 +197,5 @@ Your Business Location
 
 #......... GO TO TOP ..........#
 
-aria-label="Go To Top"
+aria-label = Go To Top
 <ion-icon name="arrow-up-outline"></ion-icon>
