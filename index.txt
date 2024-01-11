@@ -1,86 +1,84 @@
-Cosmic - Get Best UI Design
+Perspexa AI - Transforming Businesses with AI Automation
 
 
 
 #......... HEADER ..........#
 
-Desinic
+Perspexa AI
 
-Desinic
-
-aria-labe = Close Menu
+aria-label="Close Menu"
 <ion-icon name="close-outline"></ion-icon>
 
 Home
-About
 Services
 Features
-Blog
-Contact Us
+About Us
+Contact
 
 <ion-icon name="chevron-forward-outline" aria-hidden="true"></ion-icon>
-Get A Quote
+Get Started
 
-aria-label = Open Menu
+aria-label="Open Menu"
 <ion-icon name="menu-outline"></ion-icon>
 
 
 
 #......... HERO ..........#
 
-We Are Product Designer From UK
+alt="hero-banner"
 
-We Design Interfaces That Users Love
+Revolutionize Your Business with Perspexa AI
 
-Morbi sed lacus nec risus finibus feugiat et fermentum nibh. Pellentesque vitae ante at elit fringilla ac at purus.
+Harness the Power of Artificial Intelligence for Unprecedented Growth and Innovation.
 
-Learn More
-
-alt = hero-banner
+<a href="#contact" class="btn btn-primary">
+  <ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+  <span>Get Started</span>
+</a>
 
 
 
 #......... ABOUT ..........#
 
-alt = about banner
+alt="about banner"
 
-Why Our Agency
+Why Choose Perspexa AI
 
-In dictum aliquam turpis lacinia iaculis. Fusce vel malesuada magna. Nulla vel maximus risus. Donec volutpat metus lacinia risus accumsan, ac bibendum libero efficitur. Pellentesque nec nisi sit amet magna tempus hendrerit ut a odio.
+In a rapidly evolving digital landscape, Perspexa AI stands as a beacon of innovation. Our commitment to excellence and cutting-edge AI technologies sets us apart.
 
-Praesent rhoncus commodo tortor, id pulvinar nisl blandit at. Nulla facilisi. Quisque turpis ante, vehicula condimentum arcu.
+With a proven track record and a team of dedicated professionals, we redefine the possibilities of artificial intelligence. Join us on this transformative journey.
 
 9875
 Satisfied Clients
 
 7894
-Project Lunched
+Projects Launched
 
-65
-Years Completed
-
-
+5
+Years of Excellence
 
 
 
-#......... SERVICE ..........#
 
-Our Speciallization
+
+#......... SERVICES ..........#
+
+Our Expertise
 
 <ion-icon name="telescope-outline"></ion-icon>
 
-Strategy & Research
+Data Analytics
 
-Mauris ut felis malesuada eros varius tristique a at orci. Nulla vulputate, leo sit amet rhoncus suscipit, enim ex venenatis ipsum, et porttitor.
+Unlock valuable insights and make data-driven decisions.
 
-aria-label = Show More
+aria-label="Show More"
 <ion-icon name="chevron-forward-outline"></ion-icon>
 
 <ion-icon name="desktop-outline"></ion-icon>
-Web Development
+Automation Solutions
 
 <ion-icon name="globe-outline"></ion-icon>
-Web Solution
+AI Innovation
 
 
 
@@ -88,23 +86,29 @@ Web Solution
 
 #......... FEATURES ..........#
 
-Our Features
+Why Perspexa AI
 
 <ion-icon name="bulb-outline"></ion-icon>
-Idea & Analysis
+Innovative Solutions
 
-Praesent tincidunt congue est ut hendrerit. Pellentesque et eros sit amet ipsum venenatis.
+Discover a new era of innovation with our high-performance AI solutions.
 
 <ion-icon name="color-palette-outline"></ion-icon>
-Designing
+Robust Security
 
-alt = Features Banner
+Ensure the safety and integrity of your data with our secure AI platform.
+
+alt="Features Banner"
 
 <ion-icon name="code-slash-outline"></ion-icon>
-Development
+Dedicated Support
+
+Our expert support team is ready to assist you 24/7.
 
 <ion-icon name="rocket-outline"></ion-icon>
-Testing & Lunching
+Efficiency & Speed
+
+Experience AI solutions with unparalleled speed and efficiency.
 
 
 
@@ -112,31 +116,24 @@ Testing & Lunching
 
 #......... BLOG ..........#
 
-Our Blog & News
+Perspexa AI Insights
 
-alt = Vestibulum massa arcu, consectetu pellentesque scelerisque.
+alt="Vestibulum massa arcu, consectetu pellentesque scelerisque."
 
-Vestibulum massa arcu, consectetu pellentesque scelerisque.
-
-Sed quis sagittis velit. Aliquam velit eros, bibendum ut massa et, consequat laoreet erat nam ac imperdiet.
+Explore the latest trends and insights in the world of AI and business transformation.
 
 <ion-icon name="time-outline"></ion-icon>
-7 March, 2022
+7 March, 2024
 
-aria-label = Comment
+aria-label="Comment"
 
 <ion-icon name="chatbubble-outline"></ion-icon>
 15
 
-aria-label = Share
+aria-label="Share"
 <ion-icon name="share-social-outline"></ion-icon>
 
-
-Quisque egestas iaculis felis eget placerat ut pulvinar mi.
-
-Fusce sem ligula, imperdiet sed nisi sit amet, euismod posuere.
-
-Donec feugiat mollis nisi in dignissim. Morbi sollicitudin quis.
+Stay informed and join the conversation. Dive into our blog for valuable perspectives on the future of AI.
 
 
 
@@ -144,7 +141,7 @@ Donec feugiat mollis nisi in dignissim. Morbi sollicitudin quis.
 
 #......... FOOTER ..........#
 
-Desinic
+Perspexa AI
 
 Maecenas pellentesque placerat quam, in finibus nisl tincidunt sed. Aliquam magna augue, malesuada ut feugiat eget, cursus eget felis.
 
@@ -152,26 +149,24 @@ Maecenas pellentesque placerat quam, in finibus nisl tincidunt sed. Aliquam magn
 <ion-icon name="logo-instagram"></ion-icon>
 <ion-icon name="logo-twitter"></ion-icon>
 
-Our links
+Our Links
 
 Home
-About Us
 Services
-Team
-Blog
+Features
+About Us
+Contact
 
 Our Services
 
-Strategy & Research
-Web Development
-Web Solution
-Digital Marketing
-App Design
+Data Analytics
+Automation Solutions
+AI Innovation
 
-Other links
+Other Links
 
 FAQ
-Portfolio
+Blog
 Privacy Policy
 Terms & Conditions
 Support
@@ -179,17 +174,15 @@ Support
 Contact Us
 
 <ion-icon name="call"></ion-icon>
-+248-421-4313
-+248-687-1365
++1-123-456-7890
 
 <ion-icon name="mail"></ion-icon>
-info@cosmic.com
-help@cosmic.com
+info@perspexaai.com
 
 <ion-icon name="location"></ion-icon>
-Pontiac, Michigan, United States of America
+Your Business Location
 
-&copy; 2023 talo. All Right Reserved
+&copy; 2024 Perspexa AI. All Rights Reserved.
 
 
 
@@ -197,5 +190,5 @@ Pontiac, Michigan, United States of America
 
 #......... GO TO TOP ..........#
 
-aria-label = Go To Top
+aria-label="Go To Top"
 <ion-icon name="arrow-up-outline"></ion-icon>
